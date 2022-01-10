@@ -1,6 +1,7 @@
 ### Infraestrutura de TI com ênfase em Zabbix!
 ```diff
-O curso "Analista de Infraestrutura de TI" tem por objetivo capacitar o aluno a dominar os principais recursos utilizados em médias e grandes empresas. Você aprenderá passo a passo e sem dificuldades a planejar e implementar, do zero, uma estrutura completa para executar as aplicações/sistemas corporativos com o máximo de eficiência e segurança.
+O curso "Analista de Infraestrutura de TI" tem por objetivo capacitar o aluno a dominar os principais recursos utilizados em médias e grandes empresas.
+Você aprenderá passo a passo e sem dificuldades a planejar e implementar, do zero, uma estrutura completa para executar as aplicações/sistemas corporativos com o máximo de eficiência e segurança.
 O conteúdo diferenciado deste treinamento visa habilitar o aluno a concorrer a diversas vagas de emprego que estão disponíveis por falta de profissionais qualificados e que dominem as principais soluções de infraestrutura.
 Nossa missão é torná-lo um profissional de sucesso em meio a um mercado carente de mão de obra qualificada.
 Você aprenderá no seu próprio ritmo a planejar, implementar, configurar, administrar e monitorar uma inteira infraestrutura.
