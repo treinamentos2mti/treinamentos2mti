@@ -25,10 +25,10 @@ de uma empresa,
 ### Github criado para compartilhar material com os alunos do treinamento de Infraestrutura de TI com ênfase em Zabbix!
 
 #### 🚀 Sites dos treinamento avançados!
-✅ [Infraestrutura de ti com enfase em zabbix 5.0](https://hotmart.com/product/analista-de-infraestrutura-de-ti-2/)
+✅ [Infraestrutura de ti com ênfase em zabbix 5.0](https://hotmart.com/product/analista-de-infraestrutura-de-ti-2/)
 
 
-✅ [Infraestrutura de ti com enfase em zabbix 6.0](https://hotmart.com/product/infraestrutura-de-ti-com-enfase-em-zabbix-6-0/)
+✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://hotmart.com/product/infraestrutura-de-ti-com-enfase-em-zabbix-6-0/)
 
 
 
