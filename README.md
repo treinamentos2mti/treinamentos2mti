@@ -26,4 +26,8 @@ de uma empresa,
 #### Site do treinamento!
 ✅ 
 
+#### Conteudos do treinamento!
+✅ badges
+
+
 
