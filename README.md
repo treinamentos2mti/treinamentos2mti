@@ -1,5 +1,5 @@
 ### Infraestrutura de TI com ênfase em Zabbix!
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+Infraestrutura de TI com ênfase em Zabbix!)
+- [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)Infraestrutura de TI com ênfase em Zabbix!]
 ### 
 
 #### Siga-me nas redes sociais.
