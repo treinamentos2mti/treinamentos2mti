@@ -5,4 +5,6 @@
 
 #### GitHub criado para o treinamento de Infraestrutura de TI com ênfase em Zabbix!
 
+✅
+
 
