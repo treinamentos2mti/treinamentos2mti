@@ -32,6 +32,7 @@ de uma empresa,
 
 ✅ [Emojis](https://github.com/treinamentos2mti/Emojis-)
 
+---
 ### 🚀 Estatísticas do Github.
 ![Infraestrutura de TI com ênfase em Zabbix!](https://github-readme-stats.vercel.app/api?username=treinamentos2mti&show_icons=true)
 ---
