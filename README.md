@@ -27,7 +27,7 @@ de uma empresa,
 ✅ 
 
 #### Conteudos do treinamento!
-✅ badges
+✅ [Badges](https://github.com/treinamentos2mti/Badges)
 
 
 
