@@ -26,7 +26,7 @@ de uma empresa,
 #### 🚀 Site do treinamento!
 ✅ [Site](https://magnocerqueira.kpages.online/)
 
-#### 🚀 Conteudos do Github do treinamento!
+#### 🚀 Conteúdos do Github do treinamento!
 ✅ [Badges](https://github.com/treinamentos2mti/Badges)
 
 ### Estatisticas do Github.
