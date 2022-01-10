@@ -1,6 +1,6 @@
 ### Infraestrutura de TI com ênfase em Zabbix!
 ```diff
-@@ ### Infraestrutura de TI com ênfase em Zabbix!
+@@ Infraestrutura de TI com ênfase em Zabbix!
 ```
 
 #### Siga-me nas redes sociais.
