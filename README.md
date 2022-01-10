@@ -28,6 +28,7 @@ de uma empresa,
 
 #### 🚀 Conteúdos do Github do treinamento!
 ✅ [Badges](https://github.com/treinamentos2mti/Badges)
+
 ✅ [Emojis](https://github.com/treinamentos2mti/Emojis-)
 
 ### Estatisticas do Github.
