@@ -23,10 +23,10 @@ de uma empresa,
 
 ### GitHub criado para compartilhar material com os alunos do treinamento de Infraestrutura de TI com ênfase em Zabbix!
 
-#### Site do treinamento!
-✅ 
+#### 🚀 Site do treinamento!
+✅ [Site](https://magnocerqueira.kpages.online/)
 
-#### Conteudos do treinamento!
+#### 🚀 Conteudos do Github do treinamento!
 ✅ [Badges](https://github.com/treinamentos2mti/Badges)
 
 ### Estatisticas do Github.
