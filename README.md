@@ -29,10 +29,9 @@ de uma empresa,
 #### Conteudos do treinamento!
 ✅ [Badges](https://github.com/treinamentos2mti/Badges)
 
+### Estatisticas do Github.
 ![Infraestrutura de TI com ênfase em Zabbix!](https://github-readme-stats.vercel.app/api?username=treinamentos2mti&show_icons=true)
 
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=treinamentos2mti &theme=blue-green)
 
 ---
 
