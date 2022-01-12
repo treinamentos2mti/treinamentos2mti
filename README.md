@@ -1,6 +1,6 @@
 ### Infraestrutura de TI com ênfase em Zabbix!
 ```diff
-O curso "Analista de Infraestrutura de TI" tem por objetivo capacitar o aluno a dominar 
+O curso "Infraestrutura de TI com ênfase em Zabbix" tem por objetivo capacitar o aluno a dominar 
 os principais recursos utilizados
 em médias e grandes empresas.
 Você aprenderá passo a passo e sem dificuldades a planejar e implementar, do zero, 
