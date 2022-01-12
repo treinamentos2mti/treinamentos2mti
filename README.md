@@ -59,7 +59,7 @@ de uma empresa,
 ---
 
 ### 🚀 Estatísticas do Github.
-![Dados!](https://github-readme-stats.vercel.app/api?username=treinamentos2mti&show_icons=true)
+![Dados d!](https://github-readme-stats.vercel.app/api?username=treinamentos2mti&show_icons=true)
 
 ---
 
