@@ -26,6 +26,7 @@ de uma empresa,
 
 #### 🚀 Plataformas dos cursos!
 
+```diff
 ✅ [Udemy - Total de alunos 19.479](https://www.udemy.com/user/magno-3/)
 
 
@@ -37,7 +38,7 @@ de uma empresa,
 
 ✅ [Sympla - Total de alunos 0](https://www.sympla.com.br/eventos?s=zabbix&tab=eventos)
 
----
+```
 #### 🚀 Treinamentos avançados!
 
 ✅ [Infraestrutura de ti com ênfase em zabbix 5.0](https://hotmart.com/product/analista-de-infraestrutura-de-ti-2/)
