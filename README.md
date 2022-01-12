@@ -37,6 +37,7 @@ de uma empresa,
 
 ✅ [Sympla - Total de alunos 0](https://www.sympla.com.br/eventos?s=zabbix&tab=eventos)
 
+---
 #### 🚀 Treinamentos avançados!
 
 ✅ [Infraestrutura de ti com ênfase em zabbix 5.0](https://hotmart.com/product/analista-de-infraestrutura-de-ti-2/)
@@ -44,8 +45,7 @@ de uma empresa,
 
 ✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://hotmart.com/product/infraestrutura-de-ti-com-enfase-em-zabbix-6-0/)
 
-
-
+---
 #### 🚀 Conteúdos do Github do treinamento!
 ✅ [Badges](https://github.com/treinamentos2mti/Badges)
 
